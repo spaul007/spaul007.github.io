@@ -78,9 +78,7 @@ body,
 td,
 th,
 tr,
-p {
-  font-size: 26px;
-},
+p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 16px;
